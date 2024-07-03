@@ -14,9 +14,9 @@
     "terms_conditions_url": "https://sites.google.com/view/cute-cats-wallpaper-hd/home",
     "email_help_feedback": "smartdeveloper000@gmail.com",
     "show_wallpaper_name": false,
-    "show_full_screen_wallpaper_details": true,
-    "enable_center_crop_wallpaper_details": false,
-    "enable_exit_dialog": true,
+    "show_full_screen_wallpaper_details": false,
+    "enable_center_crop_wallpaper_details": true,
+    "enable_exit_dialog": false,
     "enable_rtl_mode": false,
     "enable_dark_mode_as_default_theme": true
   },
