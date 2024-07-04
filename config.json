@@ -84,7 +84,7 @@
       }
     },
     "placement": {
-      "banner_home": true,
+      "banner_home": false,
       "banner_wallpaper_details": true,
       "banner_favorite": true,
       "interstitial_wallpaper_list": true,
