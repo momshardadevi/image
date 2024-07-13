@@ -1,11 +1,11 @@
 {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-     "address": "sanjaycolony"
+    "ads_status": true,
+    "admob_banner_id": "hildegard.org",
+    "admob_native": "sanjaycolony",
+    "admob_interstitial": "sanjaycolony",
+    "showAdManagerAd": false,
+    "showAppUpdates": false
+    
   }
 
 
