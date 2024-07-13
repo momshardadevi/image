@@ -1,23 +1,25 @@
 {
-  "app": {
-    "status": true,
-    "redirect_url": ""
-  },
-  "github": {
-    "username": "momshardadevi",
-    "repository": "cute_cats",
-    "branch": "main"
-  },
-  "settings": {
-    "more_apps_url": "https://play.google.com/store/apps/details?id=com.smartdeveloper000.imageconverter",
-    "privacy_policy_url": "https://sites.google.com/view/cutecatwallpaperhd/home",
-    "terms_conditions_url": "https://sites.google.com/view/cute-cats-wallpaper-hd/home",
-    "email_help_feedback": "smartdeveloper000@gmail.com",
-    "show_wallpaper_name": false,
-    "show_full_screen_wallpaper_details": false,
-    "enable_center_crop_wallpaper_details": true,
-    "enable_exit_dialog": false,
-    "enable_rtl_mode": false,
-    "enable_dark_mode_as_default_theme": true
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
   }
-}
+
+
