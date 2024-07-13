@@ -1,4 +1,4 @@
-{
+]{
   "app": {
     "status": true,
     "redirect_url": ""
@@ -21,3 +21,5 @@
     "enable_dark_mode_as_default_theme": true
   }
 }
+]
+
