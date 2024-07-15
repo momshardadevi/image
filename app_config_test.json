@@ -9,7 +9,8 @@
     "showLatestImageFirst": true,
     "totalImages": 185,
     "fetchUsingUrl": false,
-    "newFeature" : true
+    "newFeature" : true,
+    "pageSize" : 20
   }
 
 
