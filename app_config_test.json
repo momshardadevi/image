@@ -1,8 +1,8 @@
 {
-    "ads_status": true,
-    "admob_banner_id": "hildegard.org",
-    "admob_native": "sanjaycolony",
-    "admob_interstitial": "sanjaycolony",
+    "adsStatus": true,
+    "admobBannerId": "hildegard.org",
+    "admobNativeId": "sanjaycolony",
+    "admobInterstitialId": "sanjaycolony",
     "showAdManagerAd": false,
     "showAppUpdates": false,
     "showLayoutNumber" : 3,
