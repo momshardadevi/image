@@ -7,7 +7,7 @@
     "showAppUpdates": false,
     "showLayoutNumber" : 3,
     "totalImages": 40,
-    "fetchUsingSize" : true
+    "fetchUsingUrl" : false
   }
 
 
