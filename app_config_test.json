@@ -5,8 +5,9 @@
     "admob_interstitial": "sanjaycolony",
     "showAdManagerAd": false,
     "showAppUpdates": false,
-    "showLayoutNumber" : 3
-    
+    "showLayoutNumber" : 3,
+    "totalImages": 185,
+    "fetchUsingSize" : true
   }
 
 
