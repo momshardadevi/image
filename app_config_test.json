@@ -8,8 +8,7 @@
     "showLayoutNumber" : 2,
     "showLatestImageFirst": true,
     "totalImages": 185,
-    "fetchUsingUrl": false,
-    "shuffelList" : true
+    "fetchUsingUrl": false
   }
 
 
