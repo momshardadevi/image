@@ -3,13 +3,13 @@
     "admobBannerId": "hildegard.org",
     "admobNativeId": "sanjaycolony",
     "admobInterstitialId": "sanjaycolony",
+    "admobRewardedId": "sanjaycolony",
     "showAdManagerAd": false,
     "showAppUpdates": true,
     "showLayoutNumber" : 2,
     "totalImages": 185,
     "fetchUsingUrl": false,
-    "newFeature" : true,
-    "pageSize" : 20
+    "fetchUrl" : ""
   }
 
 
