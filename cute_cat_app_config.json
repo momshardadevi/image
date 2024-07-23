@@ -9,7 +9,7 @@
     "showLayoutNumber" : 2,
     "totalImages": 185,
     "fetchUsingUrl": false,
-    "fetchUrl" : ""
+    "fetchUrl" : "https://raw.githubusercontent.com/momshardadevi/image/main/cute_app_json.json"
   }
 
 
