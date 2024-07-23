@@ -8,7 +8,7 @@
     "showAppUpdates": true,
     "showLayoutNumber" : 2,
     "totalImages": 185,
-    "fetchUsingUrl": false,
+    "fetchUsingUrl": true,
     "fetchUrl" : "https://raw.githubusercontent.com/momshardadevi/image/main/cute_cat_app_json.json",
     "imageFetchNaming" : "https://raw.githubusercontent.com/cutewallhub/wallhub/main/wallhub/"
   }
