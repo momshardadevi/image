@@ -4,7 +4,7 @@
     "admobNativeId": "sanjaycolony",
     "admobInterstitialId": "sanjaycolony",
     "showAdManagerAd": false,
-    "showAppUpdates": false,
+    "showAppUpdates": true,
     "showLayoutNumber" : 2,
     "totalImages": 185,
     "fetchUsingUrl": false,
