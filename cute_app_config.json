@@ -6,7 +6,6 @@
     "showAdManagerAd": false,
     "showAppUpdates": false,
     "showLayoutNumber" : 2,
-    "showLatestImageFirst": true,
     "totalImages": 185,
     "fetchUsingUrl": false,
     "newFeature" : true,
