@@ -1,53 +1,15 @@
-[
-  {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
-  },
-   {
-    "wallpaperNo": 1,
-    "wallpaper_url": "Leanne Graham",
-    "name": "Bret" 
+{
+    "adsStatus": true,
+    "admobBannerId": "hildegard.org",
+    "admobNativeId": "sanjaycolony",
+    "admobInterstitialId": "sanjaycolony",
+    "admobRewardedId": "sanjaycolony",
+    "showAdManagerAd": false,
+    "showAppUpdates": true,
+    "showLayoutNumber" : 2,
+    "totalImages": 381,
+    "fetchUsingUrl": false,
+    "fetchUrl" : "https://raw.githubusercontent.com/momshardadevi/image/main/cute_cat_app_json.json",
+    "imageFetchNaming" : "https://raw.githubusercontent.com/cutewallhub/wallhub/main/wallhub/"
   }
-  
-]
+ 
